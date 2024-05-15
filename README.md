@@ -21,13 +21,23 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 - The channel through which the most payment queries are handled are Call centre so more workload is shared for Billing & Payment followups hence the increased response time.
 - Hence distribution of customer query through proper channel is something they can work upon
  
-![RCA](/RCA.PNG)
+  ![RCA](/RCA.PNG)
 
-• Service Response Time Analysis: Analyze response times for customer queries and support requests to assess the efficiency of the customer service team.
-• Customer Segmentation: Segment customers based on their demographics, behavior, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly.
-• Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
+**Service Response Time Analysis:** 
+- LA team has response time within SLA which is highest amongst the dataset.
+- Denver has lowest score for resp. time below SLA.
+- So this builds up a picture that respective call centres will need to develop special case study wherein the efficiency of their service team can be improved & maintained in future.
 
-**_Expected Deliverables:_**
-• Data-driven insights and actionable recommendations based on sentiment analysis and root cause identification.
-• Real-time monitoring dashboard for tracking all the Project Goals
+  ![SRTA](/SRTA.PNG)
+
+**Customer Segmentation:** 
+- Based upon the dataset presented, the customers have been pragmatic about their approach in identifying the fastest means of resolution for their query which is call-centre, wherein most positive & very positive inputs have been resolved through.
+
+  ![CS](/CS.PNG)
+  
+**Trends and Patterns Identification:**
+- To summarise, the trends & patterns within this dataset is something which I found to be of a research topic and honestly Nile needs to work upon their customer support services in a tech-savvy means such that their throughput can be improved & maintained.
+
+  ![Dash](/Dash.PNG)
+
 
