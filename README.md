@@ -14,30 +14,30 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 - There are higher number of negative sentiments than neutral or positive ones.
 - If we dive deep into that, then as per the comparison of Csat score & Response time, the negative sentiment is highest among people with Billing questions.
   
-  ![CSA](/CSA.PNG)
+  ![CSA](/Data/CSA.PNG)
 
 **Root Cause Analysis:**
 - Common customer complaints is Billing related queries.
 - The channel through which the most payment queries are handled are Call centre so more workload is shared for Billing & Payment followups hence the increased response time.
 - Hence distribution of customer query through proper channel is something they can work upon
  
-  ![RCA](/RCA.PNG)
+  ![RCA](/Data/RCA.PNG)
 
 **Service Response Time Analysis:** 
 - LA team has response time within SLA which is highest amongst the dataset.
 - Denver has lowest score for resp. time below SLA.
 - So this builds up a picture that respective call centres will need to develop special case study wherein the efficiency of their service team can be improved & maintained in future.
 
-  ![SRTA](/SRTA.PNG)
+  ![SRTA](/Data/SRTA.PNG)
 
 **Customer Segmentation:** 
 - Based upon the dataset presented, the customers have been pragmatic about their approach in identifying the fastest means of resolution for their query which is call-centre, wherein most positive & very positive inputs have been resolved through.
 
-  ![CS](/CS.PNG)
+  ![CS](/Data/CS.PNG)
   
 **Trends and Patterns Identification:**
 - To summarise, the trends & patterns within this dataset is something which I found to be of a research topic and honestly Nile needs to work upon their customer support services in a tech-savvy means such that their throughput can be improved & maintained.
 
-  ![Dash](/Dash.PNG)
+  ![Dash](/Data/Dash.PNG)
 
 
