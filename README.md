@@ -13,7 +13,7 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 **Customer Sentiment Analysis:** 
 - There are higher number of negative sentiments than neutral or positive ones.
 - If we dive deep into that, then as per the comparison of Csat score & Response time, the negative sentiment is highest among people with Billing questions.
-  ![CSA](main/CSA.png)
+  ![CSA](/CSA.PNG)
 
 • Root Cause Analysis: Investigate common customer complaints. Pinpoint recurring problems to address them proactively and prevent future escalations.
 • Service Response Time Analysis: Analyze response times for customer queries and support requests to assess the efficiency of the customer service team.
